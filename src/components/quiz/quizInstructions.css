@@ -1,0 +1,48 @@
+.instruction{
+    background: linear-gradient(135deg, rgb(218, 218, 104), rgb(250, 250, 153));
+
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 30px;
+    font-family: "Poppins", sans-serif;
+}
+.instruction h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.instruction p{
+    margin-bottom: 10px;
+}
+.browser-default{
+    max-width: 750px;
+    margin: 0 auto;
+}
+.browser-default li{
+    margin-bottom: 5px;
+}
+#sub-list{
+    margin-left: 18px;
+}
+.icon{
+    position: relative;
+    top: 4px;
+}
+.action{
+    margin-top: 9px;
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+    color: black;
+}
+.left:hover{
+    text-decoration: none;
+}
+.right{
+    color: black;
+}
+.right:hover{
+    text-decoration: none;
+}
